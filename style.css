@@ -23,3 +23,13 @@
 .jumbotron .btn{
     text-transform: uppercase;
 }
+
+/* Carousel Start */
+.carousel{
+    margin: 30px 30px;
+    width: 700px;
+}
+.carousel img {
+    background-position: center;
+    background-repeat: no-repeat;
+}

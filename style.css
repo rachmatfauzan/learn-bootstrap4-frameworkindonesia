@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+.jumbotron{
+    padding-top: 1rem;
+    display: flex;
+    align-items: center;
+    background-image: url('https://images.unsplash.com/photo-1600738535506-48e151469152?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+    background-position: center;
+    background-size: cover;
+    height: 980px;
+    color: white;
+    text-align: center;
+}
+.jumbotron p{
+    margin-top: 50px;
+}
+.jumbotron hr{
+    width: 100px;
+    border-color: white;
+    border-width: 2px;
+}
+.jumbotron .btn{
+    text-transform: uppercase;
+}

@@ -27,6 +27,7 @@
 /* Carousel Start */
 .carousel{
     width: 50%;
+    height: 95vh;
     margin: 30px auto;
 }
 .carousel h3{

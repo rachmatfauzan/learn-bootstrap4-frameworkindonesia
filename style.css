@@ -26,8 +26,17 @@
 
 /* Carousel Start */
 .carousel{
-    margin: 30px 30px;
-    width: 700px;
+    width: 50%;
+    margin: 30px auto;
+}
+.carousel h3{
+    text-align: center;
+    margin-bottom: 2em;
+}
+.carousel-item{
+    width: 100%;
+    height: 60vmin;
+    overflow-y: hidden;
 }
 .carousel img {
     background-position: center;
